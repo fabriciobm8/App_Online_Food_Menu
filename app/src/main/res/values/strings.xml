@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">OnlineFoodMenu</string>
+    <string name="text_Header">Cardápio Virtual</string>
+    <string name="text_Header_Description">Selecione seu pedido abaixo marcando-o ou desmarcando-o</string>
+    <string name="text_Menu_Dishes">Pratos</string>
+    <string name="check_Dish1">Strogonoff de carne</string>
+    <string name="text_Dish1">R$ 30,00</string>
+    <string name="check_Dish2">Risoto à milanesa</string>
+    <string name="text_Dish2">R$ 35,00</string>
+    <string name="check_Dish3">Bobó de camarão</string>
+    <string name="text_Dish3">R$ 55,00</string>
+    <string name="check_Dish4">Pizza de marguerita</string>
+    <string name="text_Dish4">R$ 45,00</string>
+    <string name="text_Menu_Drinks">Bebidas</string>
+    <string name="check_Drink1">Coca-Cola</string>
+    <string name="text_Drink1">R$ 15,90</string>
+    <string name="check_Drink2">Suco</string>
+    <string name="text_Drink2">R$ 18,60</string>
+    <string name="text_Label_Resul">R$ 0,00</string>
+    <string name="button_Calculate">Calcular</string>
+    <string name="button_Order">Fazer Pedido</string>
+    <string name="validation_Fill_All_Fields_1">Click em pelo menos uma opção para calcular o seu pedido</string>
+    <string name="validation_Fill_All_Fields_2">Marque as opções pertinentes ao seu pedido</string>
+    <string name="validation_Order">Pedido realizado com sucesso</string>
+</resources>
